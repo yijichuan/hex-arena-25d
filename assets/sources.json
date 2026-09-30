@@ -1,0 +1,170 @@
+[
+  {
+    "file": "champion/Ashe.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/champion/Ashe.png"
+  },
+  {
+    "file": "champion/Blitzcrank.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/champion/Blitzcrank.png"
+  },
+  {
+    "file": "champion/Ezreal.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/champion/Ezreal.png"
+  },
+  {
+    "file": "champion/Garen.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/champion/Garen.png"
+  },
+  {
+    "file": "champion/Jinx.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/champion/Jinx.png"
+  },
+  {
+    "file": "champion/Lux.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/champion/Lux.png"
+  },
+  {
+    "file": "champion/MasterYi.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/champion/MasterYi.png"
+  },
+  {
+    "file": "champion/Morgana.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/champion/Morgana.png"
+  },
+  {
+    "file": "effects/snowflake1.png",
+    "source": "https://threejs.org/examples/textures/sprites/snowflake1.png"
+  },
+  {
+    "file": "effects/spark1.png",
+    "source": "https://threejs.org/examples/textures/sprites/spark1.png"
+  },
+  {
+    "file": "spell/AlphaStrike.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/AlphaStrike.png"
+  },
+  {
+    "file": "spell/ArcaneShift.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/EzrealE.png"
+  },
+  {
+    "file": "spell/AsheQ.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/AsheQ.png"
+  },
+  {
+    "file": "spell/BlackShield.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/MorganaE.png"
+  },
+  {
+    "file": "spell/Courage.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/GarenW.png"
+  },
+  {
+    "file": "spell/DarkBinding.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/MorganaQ.png"
+  },
+  {
+    "file": "spell/DecisiveStrike.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/GarenQ.png"
+  },
+  {
+    "file": "spell/EnchantedCrystalArrow.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/EnchantedCrystalArrow.png"
+  },
+  {
+    "file": "spell/EssenceFlux.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/EzrealW.png"
+  },
+  {
+    "file": "spell/FinalSpark.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/LuxR.png"
+  },
+  {
+    "file": "spell/GarenR.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/GarenR.png"
+  },
+  {
+    "file": "spell/Hawkshot.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/AsheSpiritOfTheHawk.png"
+  },
+  {
+    "file": "spell/Highlander.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/Highlander.png"
+  },
+  {
+    "file": "spell/JinxE.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/JinxE.png"
+  },
+  {
+    "file": "spell/JinxQ.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/JinxQ.png"
+  },
+  {
+    "file": "spell/JinxR.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/JinxR.png"
+  },
+  {
+    "file": "spell/JinxW.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/JinxW.png"
+  },
+  {
+    "file": "spell/Judgment.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/GarenE.png"
+  },
+  {
+    "file": "spell/LightBinding.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/LuxLightBinding.png"
+  },
+  {
+    "file": "spell/LucentSingularity.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/LuxLightStrikeKugel.png"
+  },
+  {
+    "file": "spell/Meditate.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/Meditate.png"
+  },
+  {
+    "file": "spell/MysticShot.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/EzrealQ.png"
+  },
+  {
+    "file": "spell/Overdrive.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/Overdrive.png"
+  },
+  {
+    "file": "spell/PowerFist.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/PowerFist.png"
+  },
+  {
+    "file": "spell/PrismaticBarrier.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/LuxPrismaticWave.png"
+  },
+  {
+    "file": "spell/RocketGrab.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/RocketGrab.png"
+  },
+  {
+    "file": "spell/SoulShackles.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/MorganaR.png"
+  },
+  {
+    "file": "spell/StaticField.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/StaticField.png"
+  },
+  {
+    "file": "spell/TormentedShadow.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/MorganaW.png"
+  },
+  {
+    "file": "spell/TrueshotBarrage.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/EzrealR.png"
+  },
+  {
+    "file": "spell/Volley.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/Volley.png"
+  },
+  {
+    "file": "spell/WujuStyle.png",
+    "source": "https://ddragon.leagueoflegends.com/cdn/14.24.1/img/spell/WujuStyle.png"
+  }
+]
