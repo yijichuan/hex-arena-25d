@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>极地裂隙 · 2.5D Hex Arena</title>
+  <link rel="stylesheet" href="style3d.css" />
+</head>
+<body>
+  <main class="shell">
+    <header class="topbar">
+      <div><div class="eyebrow">ORIGINAL 2.5D ARAM PROTOTYPE</div><h1>极地裂隙 <span>HEX ARENA / 2.5D</span></h1></div>
+      <div class="top-actions"><div id="matchState" class="match-state">战斗进行中</div><button id="restartBtn" class="ghost-btn">重新开始</button></div>
+    </header>
+
+    <section class="game-stage">
+      <canvas id="game3d" aria-label="极地裂隙 3D 游戏画面"></canvas>
+      <div class="stage-glow"></div><div id="toast" class="toast"></div>
+      <div class="hud-top">
+        <div class="team-card blue-card"><span class="team-dot blue-dot"></span><div><strong>霜蓝军团</strong><small id="blueScore">0 击杀</small></div></div>
+        <div class="objective"><span class="pulse"></span><span id="objectiveText">摧毁敌方核心枢纽</span></div>
+        <div class="team-card red-card"><div><strong>赤焰军团</strong><small id="redScore">0 击杀</small></div><span class="team-dot red-dot"></span></div>
+      </div>
+      <div class="hud-bottom">
+        <div class="player-panel"><div class="portrait"><img id="championPortrait" src="https://ddragon.leagueoflegends.com/cdn/14.24.1/img/champion/Ashe.png" alt="寒冰射手" /></div><div class="player-meta"><div class="player-name"><span id="championName">寒冰射手</span> <span id="levelText">Lv.1</span></div><div class="bar hp-bar"><i id="hpFill"></i></div><div class="bar mana-bar"><i id="manaFill"></i></div><div class="player-numbers"><span id="hpText">680 / 680</span><span id="manaText">360 / 360</span><span id="goldText">800 金币</span></div></div></div>
+        <div class="ability-row"><button class="ability" data-key="q"><b>Q</b><span id="qName">射手专注</span><em id="qCd"></em></button><button class="ability" data-key="w"><b>W</b><span id="wName">万箭齐发</span><em id="wCd"></em></button><button class="ability" data-key="e"><b>E</b><span id="eName">鹰击长空</span><em id="eCd"></em></button><button class="ability ultimate" data-key="r"><b>R</b><span id="rName">水晶箭</span><em id="rCd"></em></button></div>
+        <div class="hint"><kbd>方向键</kbd> 移动 <kbd>QWER</kbd> 施法<br /><kbd>鼠标点击</kbd> 移动 · 自动攻击</div>
+      </div>
+    </section>
+
+    <section class="info-grid">
+      <article class="info-card"><div class="card-title">战场结构 <span class="live-dot"></span></div><div class="structure-row"><span>我方核心</span><div class="mini-bar"><i id="blueNexusFill"></i></div><b id="blueNexusText">2600</b></div><div class="structure-row"><span>敌方核心</span><div class="mini-bar red-mini"><i id="redNexusFill"></i></div><b id="redNexusText">2600</b></div><div class="structure-count" id="structureState">外塔 2 · 高地 1 · 门牙 2</div><div class="relic-state" id="relicState">中央治疗圣坛：可拾取</div></article>
+      <article class="info-card combat-log"><div class="card-title">战斗记录</div><div id="feed"><p>3D 极地裂隙已加载。</p><p>清理兵线并推进到敌方核心枢纽。</p></div></article>
+      <article class="info-card controls-card"><div class="card-title">构筑与 2.5D 资产</div><p><b>升级</b> 时会出现三个强化选项，点击卡片选择构筑；死亡或升级后可进入复活点商店。</p><div id="buildSummary" class="build-summary">尚未选择强化</div><div id="itemSummary" class="build-summary">尚未购买装备</div><p><b>场景</b> 等距冰桥、程序化雪纹、冰晶和粒子特效；<b>头像</b> Riot Data Dragon。</p></article>
+    </section>
+    <footer>2.5D 等距场景基于 Three.js 与原创程序化材质；头像来源：Riot Data Dragon。</footer>
+  </main>
+  <div id="upgradeModal" class="upgrade-modal hidden"><div class="upgrade-panel"><div class="upgrade-kicker">LEVEL UP</div><h2>选择一项强化</h2><p>这次升级会改变你的技能构筑。</p><div id="upgradeChoices" class="upgrade-choices"></div></div></div>
+  <div id="championModal" class="champion-modal"><div class="champion-panel"><div class="upgrade-kicker">CHOOSE YOUR CHAMPION</div><h2>选择经典英雄</h2><p>8 名英雄共享海克斯强化池，但拥有不同的基础属性和技能主题。</p><div id="championChoices" class="champion-choices"></div></div></div>
+  <div id="shopModal" class="shop-modal hidden"><div class="shop-panel"><div class="upgrade-kicker">HEXTECH SHOP</div><h2>复活点商店</h2><p id="shopReason">仅在升级或死亡后开放 · <b id="shopGold">800 金币</b></p><div id="shopItems" class="shop-items"></div><button id="closeShop" class="close-shop">离开商店，返回战场</button></div></div>
+  <script type="module" src="game3d.js"></script>
+</body>
+</html>
