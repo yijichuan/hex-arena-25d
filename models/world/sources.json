@@ -1,0 +1,332 @@
+[
+  {
+    "name": "ha_ap_shpsouth",
+    "url": "https://modelviewer.lol/model-viewer?group=extras&alias=ha_ap_shpsouth&id=0&lang=zh-CN",
+    "file": "ha_ap_shpsouth.glb",
+    "bytes": 596048,
+    "skins": 1,
+    "animations": [
+      "Close",
+      "Closed",
+      "Open",
+      "Opened"
+    ],
+    "meshes": [
+      null
+    ]
+  },
+  {
+    "name": "ha_ap_shpnorth",
+    "url": "https://modelviewer.lol/model-viewer?group=extras&alias=ha_ap_shpnorth&id=0&lang=zh-CN",
+    "file": "ha_ap_shpnorth.glb",
+    "bytes": 505360,
+    "skins": 1,
+    "animations": [
+      "Close",
+      "Closed",
+      "Open",
+      "Opened",
+      "Wind",
+      "Idle_Base",
+      "wind.anm",
+      "close_annoyed.anm"
+    ],
+    "meshes": [
+      null
+    ]
+  },
+  {
+    "name": "ha_ap_periphbridge",
+    "url": "https://modelviewer.lol/model-viewer?group=extras&alias=ha_ap_periphbridge&id=0&lang=zh-CN",
+    "file": "ha_ap_periphbridge.glb",
+    "bytes": 2908256,
+    "skins": 1,
+    "animations": [
+      "Idle1",
+      "Break_Base",
+      "broken"
+    ],
+    "meshes": [
+      null
+    ]
+  },
+  {
+    "name": "ha_ap_bridgelanestatue",
+    "url": "https://modelviewer.lol/model-viewer?group=extras&alias=ha_ap_bridgelanestatue&id=0&lang=zh-CN",
+    "file": "ha_ap_bridgelanestatue.glb",
+    "bytes": 2850276,
+    "skins": 1,
+    "animations": [
+      "shatter2.anm",
+      "Idle1",
+      "Destroyed",
+      "shatter3_SE.anm",
+      "shatter3_NE.anm"
+    ],
+    "meshes": [
+      null
+    ]
+  },
+  {
+    "name": "ha_ap_viking",
+    "url": "https://modelviewer.lol/model-viewer?group=extras&alias=ha_ap_viking&id=0&lang=zh-CN",
+    "file": "ha_ap_viking.glb",
+    "bytes": 1413884,
+    "skins": 1,
+    "animations": [
+      "Shopkeeper_Viking_idle1.anm",
+      "Shopkeeper_Viking_entering1.anm",
+      "Shopkeeper_Viking_leaving1.anm",
+      "Shopkeeper_Viking_frozen.anm"
+    ],
+    "meshes": [
+      null
+    ]
+  },
+  {
+    "name": "ha_ap_hermit",
+    "url": "https://modelviewer.lol/model-viewer?group=extras&alias=ha_ap_hermit&id=0&lang=zh-CN",
+    "file": "ha_ap_hermit.glb",
+    "bytes": 7839640,
+    "skins": 1,
+    "animations": [
+      "ShopKeeper_Hermit_Idle1.anm",
+      "ShopKeeper_Hermit_Idle2.anm",
+      "ShopKeeper_Hermit_Idle3.anm",
+      "ShopKeeper_Hermit_Idle4.anm",
+      "Shopkeeper_Hermit_Leaving1.anm",
+      "Shopkeeper_Hermit_Entering1.anm",
+      "ShopKeeper_Hermit_Idle2_Leadin.anm",
+      "Shopkeeper_Hermit_Idle5.anm",
+      "Shopkeeper_Hermit_Annoyed1.anm",
+      "Hiding",
+      "ShopKeeper_Hermit_Idle2_fidget.anm",
+      "ShopKeeper_Hermit_Idle2_pointing.anm",
+      "ShopKeeper_Hermit_Idle1_Leadin.anm"
+    ],
+    "meshes": [
+      null
+    ]
+  },
+  {
+    "name": "ha_ap_healthrelic",
+    "url": "https://modelviewer.lol/model-viewer?group=extras&alias=ha_ap_healthrelic&id=0&lang=zh-CN",
+    "file": "ha_ap_healthrelic.glb",
+    "bytes": 3736,
+    "skins": 1,
+    "animations": [],
+    "meshes": [
+      null
+    ]
+  },
+  {
+    "name": "inhibitor-0",
+    "url": "https://modelviewer.lol/model-viewer?group=extras&alias=inhibitor&id=0&lang=zh-CN",
+    "file": "inhibitor-0.glb",
+    "bytes": 1458464,
+    "skins": 1,
+    "animations": [
+      "Idle_Normal1",
+      "Death_Base",
+      "Inhibitor_spawn.anm",
+      "Inhibitor_idle_dead.anm",
+      "Respawn_Base",
+      "Idle_Normal2",
+      "Idle_Normal3",
+      "Idle_Hold"
+    ],
+    "meshes": [
+      null
+    ]
+  },
+  {
+    "name": "inhibitor-1",
+    "url": "https://modelviewer.lol/model-viewer?group=extras&alias=inhibitor&id=1&lang=zh-CN",
+    "file": "inhibitor-1.glb",
+    "bytes": 1462368,
+    "skins": 1,
+    "animations": [
+      "Idle_Normal1",
+      "Death_Base",
+      "Inhibitor_spawn.anm",
+      "Inhibitor_idle_dead.anm",
+      "Respawn_Base",
+      "Idle_Normal2",
+      "Idle_Normal3",
+      "Idle_Hold"
+    ],
+    "meshes": [
+      null
+    ]
+  },
+  {
+    "name": "nexus-0",
+    "url": "https://modelviewer.lol/model-viewer?group=extras&alias=nexus&id=0&lang=zh-CN",
+    "file": "nexus-0.glb",
+    "bytes": 2969044,
+    "skins": 1,
+    "animations": [
+      "Death",
+      "Idle1_Base",
+      "Nexus_spawn.anm",
+      "Nexus_spawn_hold.anm"
+    ],
+    "meshes": [
+      null
+    ]
+  },
+  {
+    "name": "nexus-1",
+    "url": "https://modelviewer.lol/model-viewer?group=extras&alias=nexus&id=1&lang=zh-CN",
+    "file": "nexus-1.glb",
+    "bytes": 2868276,
+    "skins": 1,
+    "animations": [
+      "Death",
+      "Idle1_Base",
+      "Nexus_spawn.anm",
+      "Nexus_spawn_hold.anm"
+    ],
+    "meshes": [
+      null
+    ]
+  },
+  {
+    "name": "brawl_fountainturret-0",
+    "url": "https://modelviewer.lol/model-viewer?group=extras&alias=brawl_fountainturret&id=0&lang=zh-CN",
+    "file": "brawl_fountainturret-0.glb",
+    "bytes": 797288,
+    "skins": 1,
+    "animations": [
+      "Idle1_Base",
+      "Attack1",
+      "Death",
+      "SRUAP_OrderTurret5_spawn60.Brawl.anm"
+    ],
+    "meshes": [
+      null
+    ]
+  },
+  {
+    "name": "brawl_fountainturret-1",
+    "url": "https://modelviewer.lol/model-viewer?group=extras&alias=brawl_fountainturret&id=1&lang=zh-CN",
+    "file": "brawl_fountainturret-1.glb",
+    "bytes": 778472,
+    "skins": 1,
+    "animations": [
+      "Idle1_Base",
+      "Attack1",
+      "Death",
+      "SRUAP_OrderTurret5_spawn60.Brawl.anm"
+    ],
+    "meshes": [
+      null
+    ]
+  },
+  {
+    "name": "ha_ap_cutaway",
+    "url": "https://modelviewer.lol/model-viewer?group=extras&alias=ha_ap_cutaway&id=0&lang=zh-CN",
+    "file": "ha_ap_cutaway.glb",
+    "bytes": 547232,
+    "skins": 1,
+    "animations": [
+      "broken",
+      "BREAK",
+      "Idle1"
+    ],
+    "meshes": [
+      null
+    ]
+  },
+  {
+    "name": "ha_ap_bannermidbridge",
+    "url": "https://modelviewer.lol/model-viewer?group=extras&alias=ha_ap_bannermidbridge&id=0&lang=zh-CN",
+    "file": "ha_ap_bannermidbridge.glb",
+    "bytes": 1086492,
+    "skins": 1,
+    "animations": [
+      "Wind_Low",
+      "Wind_Strong",
+      "Idle1"
+    ],
+    "meshes": [
+      null
+    ]
+  },
+  {
+    "name": "ha_ap_chaosturretshrine",
+    "url": "https://modelviewer.lol/extras/ha_ap_chaosturretshrine?lang=zh-CN",
+    "file": "ha_ap_chaosturretshrine.glb",
+    "bytes": 255084,
+    "skins": 1,
+    "animations": [
+      "Death",
+      "Idle1",
+      "Attack1"
+    ],
+    "meshes": [
+      null
+    ]
+  },
+  {
+    "name": "ha_ap_chains",
+    "url": "https://modelviewer.lol/extras/ha_ap_chains?lang=zh-CN",
+    "file": "ha_ap_chains.glb",
+    "bytes": 2509772,
+    "skins": 1,
+    "animations": [
+      "Wind_Strong",
+      "FALL_LEFT.anm",
+      "FALL_RIGHT.anm",
+      "FALL_DOWN_LEFT.anm",
+      "Wind_Low",
+      "WIND_LOW_LEFT.anm",
+      "WIND_LOW_RIGHT.anm",
+      "WIND_STRONG_LEFT.anm",
+      "WIND_STRONG_RIGHT.anm",
+      "FALL_DOWN_RIGHT.anm",
+      "FALLEN_LEFT.anm",
+      "FALLEN_RIGHT.anm",
+      "Idle1"
+    ],
+    "meshes": [
+      null
+    ]
+  },
+  {
+    "name": "turret-0",
+    "url": "https://modelviewer.lol/model-viewer?group=extras&alias=turret&id=0&lang=zh-CN",
+    "file": "turret-0.glb",
+    "bytes": 1941488,
+    "skins": 1,
+    "animations": [
+      "Idle1",
+      "State3",
+      "Destroyed",
+      "Idle1.2025_S3_BaseSR_Env.anm",
+      "State2",
+      "Respawn"
+    ],
+    "meshes": [
+      null
+    ]
+  },
+  {
+    "name": "turret-1",
+    "url": "https://modelviewer.lol/model-viewer?group=extras&alias=turret&id=1&lang=zh-CN",
+    "file": "turret-1.glb",
+    "bytes": 1941056,
+    "skins": 1,
+    "animations": [
+      "Idle1",
+      "State3",
+      "Destroyed",
+      "Idle1.2025_S3_BaseSR_Env.anm",
+      "State2",
+      "Respawn"
+    ],
+    "meshes": [
+      null
+    ]
+  }
+]
